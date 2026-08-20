@@ -78,3 +78,7 @@ rfkill unblock bluetooth && bluetoothctl power on && bluetoothctl connect 3A:0D:
 rfkill unblock all && bluetoothctl power on && bluetoothctl connect 3A:0D:7B:BE:B8:64
 ```
 
+
+## my keybinding
+
+Binding it with "ctrl + P" , to run that bash command auto.

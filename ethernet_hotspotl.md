@@ -8,15 +8,20 @@ nmcli connection show
 mine was "Hotspot"
 
 ## Enable autonnect
+```bash 
 sudo nmcli connection modify Hotspot connection.autoconnect yes
+```
 
 ## OPTIONAL : set up priority 
-
+```bash
 sudo nmcli connection modify Hotspot connection.autoconnect-priority 100
+```
 
 ## Give permission to not have to log in after booting up 
 
+```bash
 sudo nmcli connection modify Hotspot connection.permissions ""
+```
 
 # Suggestions 
  ## Key bind for manual hotspot on/off toggle 

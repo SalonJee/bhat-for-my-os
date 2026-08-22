@@ -2,6 +2,9 @@
 
 End-to-end steps to bind a key that instantly connects to an already-paired Bluetooth device.
 
+# The Problem
+Always had to manually open bluetooth to pair to my broken-airpod. So binded to some keys to  save some time and efforts ! 
+
 ## 1. Check your BlueZ version
 
 Different versions support different `bluetoothctl` commands.

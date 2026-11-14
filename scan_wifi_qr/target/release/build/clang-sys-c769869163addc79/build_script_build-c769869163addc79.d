@@ -1,9 +1,0 @@
-/home/salon-timsina/Documents/projects/ricing_ubun/scan_wifi_qr/target/release/build/clang-sys-c769869163addc79/build_script_build-c769869163addc79.d: /home/salon-timsina/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clang-sys-1.9.1/build.rs /home/salon-timsina/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clang-sys-1.9.1/build/macros.rs /home/salon-timsina/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clang-sys-1.9.1/build/common.rs /home/salon-timsina/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clang-sys-1.9.1/build/dynamic.rs /home/salon-timsina/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clang-sys-1.9.1/build/static.rs
-
-/home/salon-timsina/Documents/projects/ricing_ubun/scan_wifi_qr/target/release/build/clang-sys-c769869163addc79/build_script_build-c769869163addc79: /home/salon-timsina/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clang-sys-1.9.1/build.rs /home/salon-timsina/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clang-sys-1.9.1/build/macros.rs /home/salon-timsina/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clang-sys-1.9.1/build/common.rs /home/salon-timsina/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clang-sys-1.9.1/build/dynamic.rs /home/salon-timsina/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clang-sys-1.9.1/build/static.rs
-
-/home/salon-timsina/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clang-sys-1.9.1/build.rs:
-/home/salon-timsina/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clang-sys-1.9.1/build/macros.rs:
-/home/salon-timsina/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clang-sys-1.9.1/build/common.rs:
-/home/salon-timsina/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clang-sys-1.9.1/build/dynamic.rs:
-/home/salon-timsina/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clang-sys-1.9.1/build/static.rs:
